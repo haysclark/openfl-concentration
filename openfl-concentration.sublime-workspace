@@ -1,0 +1,473 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"TexturePack",
+				"TexturePackerImport"
+			],
+			[
+				"uni",
+				"uniformMatrix4fv"
+			],
+			[
+				"ver",
+				"vertexPos"
+			],
+			[
+				"project",
+				"projectionMatrix"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"verte",
+				"vertexBuffer"
+			],
+			[
+				"he",
+				"height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Source/Main.hx",
+			"settings":
+			{
+				"buffer_size": 638,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assets/images.json",
+			"settings":
+			{
+				"buffer_size": 9062,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project.xml",
+			"settings":
+			{
+				"buffer_size": 437,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"last_filter": "Bui",
+		"selected_items":
+		[
+			[
+				"Bui",
+				"Haxe: Run build"
+			],
+			[
+				"choose B",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"proj",
+				"Project: Refresh Folders"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"haxe",
+				"Haxe: Run build"
+			],
+			[
+				"hax",
+				"Haxe: Choose Build Target"
+			],
+			[
+				"ha",
+				"Haxe: Run build"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"bats",
+				"Set Syntax: Bats"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"INsta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"view.run_command(\"open_browser\")",
+			"view.run_command(\"open_browser\",1)",
+			"view.run_command(\"open_browser\")",
+			"view.run_command(\"\")",
+			"view.runCommand(\"\")",
+			"view.runCommand()",
+			"view.runCommand(_",
+			"view.runCommand(\"open_browser\")",
+			"view.runCommand(\"\")",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hays/infinitedescent/git/openfl-concentration",
+		"/Users/hays/infinitedescent/git/openfl-concentration/Assets",
+		"/Users/hays/infinitedescent/git/openfl-concentration/Source"
+	],
+	"file_history":
+	[
+		"/Users/hays/infinitedescent/git/openfl-concentration/text.hxml",
+		"/Users/hays/infinitedescent/git/openfl-concentration/openfl-concentration.sublime-project",
+		"/Users/hays/infinitedescent/git/openfl-concentration/build.hxml",
+		"/System/Library/Displays/Overrides/DisplayVendorID-610/DisplayProductID-9cf0",
+		"/Users/hays/infinitedescent/git/substate-samples/haxelib.json",
+		"/Users/hays/infinitedescent/git/substate/.git/COMMIT_EDITMSG",
+		"/Users/hays/Desktop/AngularJS_version/public/vendor/jquery-ui/ui/droppable.js",
+		"/Users/hays/infinitedescent/git/substate/bin/substate/haxelib.json",
+		"/Users/hays/infinitedescent/git/bitbucket_issue_migration/.git/MERGE_MSG",
+		"/Users/hays/infinitedescent/git/mlib/.git/COMMIT_EDITMSG",
+		"/Users/hays/infinitedescent/git/mlib/src/haxelib.xml",
+		"/Users/hays/Desktop/mlib/haxelib.json",
+		"/Users/hays/infinitedescent/git/slomo/Source/SlomoActuator.hx",
+		"/Volumes/backup/Hays/popcap_git/git/ia-haxe-client/Insaniquarium/project.xml",
+		"/Volumes/backup/Hays/popcap_git/git/ia-haxe-client/Insaniquarium/build.hxml",
+		"/Users/hays/openfl/AddingAnimation/AddingAnimation.hxproj",
+		"/Users/hays/infinite/substate/.git/COMMIT_EDITMSG",
+		"/Users/hays/infinite/substate/.git/rebase-merge/git-rebase-todo",
+		"/Users/hays/infinite/substate/src/haxelib.json",
+		"/Users/hays/Desktop/products-WB0573SK0/DEVELOPER/package.json",
+		"/Users/hays/infinite/testflight-tools/test/bats/testflight_post.bats",
+		"/Users/hays/infinite/testflight-tools/testflight_post",
+		"/Users/hays/infinite/testflight-tools/test/testflight_post_exec_test.sh",
+		"/Users/hays/infinite/testflight-tools/README.md",
+		"/Users/hays/infinite/testflight-tools/test/runner",
+		"/Users/hays/infinite/testflight-tools/test/expected_default.txt",
+		"/Users/hays/infinite/benm/Gruntfile.js",
+		"/Users/hays/infinite/benm/server.js",
+		"/Users/hays/oh-my-zsh/.git/COMMIT_EDITMSG",
+		"/Users/hays/.oh-my-zsh/plugins/haxe/haxe.plugin.zsh",
+		"/Users/hays/.zshrc",
+		"/Users/hays/.oh-my-zsh/plugins/haxelib/_haxe",
+		"/Users/hays/.oh-my-zsh/plugins/haxelib/_haxelib",
+		"/Users/hays/infinite/help",
+		"/Users/hays/infinite/blackjack-haxe/project.xml",
+		"/Users/hays/Desktop/WebGL/webgl_ch_1.html",
+		"/Users/hays/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/hays/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/hays/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/usr/lib/haxe/lib/actuate/1,7,0/haxelib.json"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/hays/infinite/Quake",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"teamcity",
+			"[trace] ",
+			".*\\n.*\\n",
+			"rocket",
+			"projectile",
+			"rocket",
+			"SimpleActuator",
+			"createStoppedState",
+			"-main TestMain\n-lib munit\n-lib hamcrest\n-lib mockatoo\n-cp src\n-lib mconsole\n-cp test\n-swf-version 9\n-swf build/as3_test.swf\n--no-inline\n-debug\n-D MOCKATOO_LOG\n\n--next\n\n## JavaScript\n-main TestMain\n-lib munit\n-lib hamcrest\n-lib mockatoo\n-cp src\n-lib mconsole\n-cp test\n-js build/js_test.js\n-D MOCKATOO_LOG\n-D no-unused-var-warnings\n# -v\n# -debug\n--no-inline\n",
+			"-main TestMain\n-lib munit\n-lib hamcrest\n-lib mockatoo\n-cp src\n-lib mconsole\n-cp test\n-swf-version 9\n-swf build/as3_test.swf\n--no-inline\n-debug\n-D MOCKATOO_LOG\n\n--next\n\n## JavaScript\n-main TestMain\n-lib munit\n-lib hamcrest\n-lib mockatoo\n-cp src\n-lib mconsole\n-cp test\n-js build/js_test.js\n-D MOCKATOO_LOG\n-D no-unused-var-warnings\n# -v\n# -debug\n",
+			"usage",
+			"3300",
+			"'",
+			": ",
+			"    ",
+			"Asset",
+			"Sou",
+			"vertexBuffer",
+			"webgl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Source/Main.hx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"haxe-build-id": 0,
+							"syntax": "Packages/Haxe/Haxe.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/images.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 9062,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								423,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "project.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								319,
+								299
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "openfl-concentration.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 530.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

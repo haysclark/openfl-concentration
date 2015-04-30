@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
 	
-	<meta title="Concentration" package="com.sample.concentration" version="1.0.0" company="Company Name" />
+	<meta title="Concentration" package="com.infinitedescent.concentration" version="1.0.0" company="Infinite Descent" />
 	<app main="Main" path="Export" file="Concentration" />
 	
 	<source path="Source" />
 	
 	<haxelib name="openfl" />
+	<haxelib name="openfl-texturepacker" />
 	
 	<assets path="Assets" rename="assets" exclude="openfl.svg" />
 	<icon path="Assets/openfl.svg" />

@@ -1,0 +1,25 @@
+# mtask
+/bin
+/.temp
+/lib
+
+# OS files
+.DS_Store
+
+# Build and Release Folders
+Export/
+*.ipa
+
+# munit and mcover
+/.mcover
+out/
+build/
+report/
+# Test/TestMain.hx
+Test/TestSuite.hx
+
+# IDE files and folders
+/.idea/workspace.xml
+
+# Other files and folders
+

@@ -1,0 +1,6 @@
+version=src
+src=Test
+bin=Build
+report=Report
+hxml=test.hxml
+classPaths=Source
